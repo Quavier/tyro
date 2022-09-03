@@ -1,1 +1,2 @@
-# tyro-discord-bot
+# TYRO
+Наш бот
