@@ -2,9 +2,9 @@
 <p align="center">
     <img src=https://badgen.net/badge/disnake/%202.5.2%20/icon=discord>
     <img src=https://badgen.net/badge/Python/3.10.6/green/?icon=visualstudio>
-    <img src=https://badgen.net/discord/members/cyZh7xPn2G/?icon=discord>
+    <img src=https://badgen.net/discord/online-members/cyZh7xPn2G/?icon=discord>
     <img src=https://badgen.net/badge/Python/3.10.6/green/?icon=visualstudio>
-    <img src=https://badgen.net/badge/Our%20server/url=https://discord.gg/cyZh7xPn2G>
+    [<img src=https://badgen.net/badge/Our%20server/url](https://discord.gg/cyZh7xPn2G)>]
     
 # ℹ | О проекте
 - Мы создали проект написанный на [***python***](https://www.presenta.cc/lib) используя библиотеку [***Disnake***](https://docs.disnake.dev/en/latest/index.html) взятую за основу.
