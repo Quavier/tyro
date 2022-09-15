@@ -1,6 +1,6 @@
 ![TYRO BOT](assets/banner.png)
 <p align="center">
-    <img src=https://badgen.net/badge/disnake/%202.5.2%20/blurple/:color?icon=discord>
+    <img src=https://badgen.net/badge/disnake/%202.5.2%20/blue/:color?icon=discord>
     <img src=https://badgen.net/badge/Python/3.10.6/green/?icon=visualstudio>
     <img src=https://badgen.net/discord/members/cyZh7xPn2G/?icon=discord>
     <img src=https://badgen.net/badge/Python/3.10.6/green/?icon=visualstudio>
